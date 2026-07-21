@@ -1,4 +1,3 @@
-[Uploading Readme.md…]()
 # Security Analyst Notes
 
 A personal collection of notes, walkthroughs, and reference material compiled while learning and working as a SOC Analyst / Security Analyst. This repo is a living knowledge base covering foundational concepts, alert triage, investigation techniques, and digital forensics & incident response (DFIR).
